@@ -1,7 +1,7 @@
 Joomla! CMS™  - Česká komunita
 ====================
 
-What is this?
+Co je to?
 ---------------------
 * Toto je repozitář sloužicí potřebám české komunity kolem redakčního systému Joomla!.
 * Česká komunita sídlí na portále [Joomlaportal.cz](http://www.joomlaportal.cz).
